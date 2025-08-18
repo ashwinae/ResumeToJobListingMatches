@@ -66,8 +66,8 @@ conda activate mercor
 pip install -r requirements.txt
 ```
 
-### 3. Add your API keys
-Update `src/config.py`) with your credentials:
+### 3. Add your API keys to SRC/config.py
+Update `src/config.py` with your credentials:
 ```
 OPENAI_API_KEY=your-key-here
 GOOGLE_API_KEY=your-key-here
