@@ -107,7 +107,7 @@ jupyter notebook notebooks/job_listings_analysis.ipynb
 
 - **Exploratory Data Analysis**  
   - Compensation distribution  
-  - Job family clustering (KMeans, DBSCAN, PCA)  
+  - Job family clustering (KMeans)  
   - Technology & skills co-occurrence networks  
 
 ---
