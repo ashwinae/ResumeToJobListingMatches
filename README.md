@@ -5,8 +5,8 @@ It includes:
 
 - 📑 **Resume Parsing & Enrichment** (PDF/DOCX parsing → LLM-powered information extraction)  
 - 🤖 **Job Listing Preprocessing** (scraping, enrichment, embeddings)  
+- 🎯 **Scoring & Ranking Engine** to match candidates with top job opportunities
 - 📊 **Exploratory & Cluster Analysis** on job listings  
-- 🎯 **Scoring & Ranking Engine** to match candidates with top job opportunities  
 
 ### 🎥 Demo Video
 
