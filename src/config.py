@@ -5,7 +5,7 @@
 from openai import OpenAI
 from google import genai
 
-# --- HARD-CODED API KEY (you requested this; change only here if needed) ---
+# --- HARD-CODED API KEY 
 OPENAI_API_KEY = ""
 
 GEMINI_API_KEY = ""
